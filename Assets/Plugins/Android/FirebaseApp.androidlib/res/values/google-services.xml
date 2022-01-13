@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://dissertation-workshop-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">1027407890652</string>
+  <string name="google_storage_bucket" translatable="false">dissertation-workshop.appspot.com</string>
+  <string name="project_id" translatable="false">dissertation-workshop</string>
+  <string name="google_api_key" translatable="false">AIzaSyCCRQjOM953Ff-JCLpYu8W2tR5uWwJGtCU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCRQjOM953Ff-JCLpYu8W2tR5uWwJGtCU</string>
+  <string name="google_app_id" translatable="false">1:1027407890652:android:a2881e9f64c8161fda8c19</string>
+  <string name="default_android_client_id" translatable="false">1027407890652-pk55kjerhvhpfhpqat2nj3qk8ncej6d1.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1027407890652-fuf9hjo1ti8q2u0qgr6c5elcta7jek74.apps.googleusercontent.com</string>
+</resources>

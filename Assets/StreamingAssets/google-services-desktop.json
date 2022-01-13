@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027407890652",
+    "firebase_url": "https://dissertation-workshop-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dissertation-workshop",
+    "storage_bucket": "dissertation-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027407890652:android:a2881e9f64c8161fda8c19",
+        "android_client_info": {
+          "package_name": "com.gla.tzvi.dissertation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027407890652-pk55kjerhvhpfhpqat2nj3qk8ncej6d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gla.tzvi.dissertation",
+            "certificate_hash": "9d5bb2164c96fd2614bc16063f3ef963e86e0fa0"
+          }
+        },
+        {
+          "client_id": "1027407890652-fuf9hjo1ti8q2u0qgr6c5elcta7jek74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCRQjOM953Ff-JCLpYu8W2tR5uWwJGtCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027407890652-fuf9hjo1ti8q2u0qgr6c5elcta7jek74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1027407890652-ruto5r6rn8pjtkq578cvjbs5j3b9srdu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gla.tzvi.dissertation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
